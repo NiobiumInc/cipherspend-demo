@@ -169,3 +169,7 @@ keys, ciphertexts, decrypted results, or caches are included or tracked.
 ## License
 
 Released under the [Apache License 2.0](LICENSE).
+
+## Contributing
+
+This repository is Niobium's fork of [leila-db/cipherspend-demo](https://github.com/leila-db/cipherspend-demo). Please open issues and pull requests on the original repository. Issues are turned off here, and pull requests are limited to collaborators.
